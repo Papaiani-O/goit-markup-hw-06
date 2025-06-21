@@ -1081,6 +1081,7 @@ button {
         flex-wrap: wrap;
         justify-content: flex-start;
         column-gap: 24px;
+        row-gap: 72px;
         padding-left: 108px;
     }
     
